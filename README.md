@@ -1,0 +1,1 @@
+## This is a OpenGL project which shows how the satelite is communicated with the earth
