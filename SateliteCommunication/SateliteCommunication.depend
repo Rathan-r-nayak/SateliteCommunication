@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1446667744 source:c:\users\ratha\onedrive\desktop\notes\cg\mini project cg\satelitecommunication\main.cpp
-	<GLUT/glut.h>
+1688795074 source:c:\users\ratha\onedrive\desktop\notes\cg\mini project cg\satelitecommunication\main.cpp
+	<windows.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
 	<GL/glut.h>
-	<stdlib.h>
+	<math.h>
 
 1229678888 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
@@ -218,4 +221,17 @@
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
 
